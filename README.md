@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on **Web Developement and Backend Projects**
 
 - 📫 How to reach me **jenniferricana@gmail.com**
+- Portfolio **https://jenniferricana.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
